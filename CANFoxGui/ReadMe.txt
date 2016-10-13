@@ -25,13 +25,10 @@ AssemblyInfo.cpp
     Enthält benutzerdefinierte Attribute zum Ändern von Assemblymetadaten.
 
 /////////////////////////////////////////////////////////////////////////////
-
 Weitere Standarddateien:
 
 StdAfx.h, StdAfx.cpp
     Diese Dateien werden verwendet, um eine vorkompilierte Headerdatei
     (PCH-Datei) mit dem Namen "CANFoxGui.pch und eine 
     vorkompilierte Typendatei mit dem Namen "StdAfx.obj" zu erstellen.
-
-
 /////////////////////////////////////////////////////////////////////////////
