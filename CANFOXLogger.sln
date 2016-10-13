@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CANFoxGui", "CANFoxGui\CANFoxGui.vcxproj", "{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CANFOXSender", "CANFOXSender\CANFOXSender.vcxproj", "{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CANFOXLogger", "CANFOXLogger\CANFOXLogger.vcxproj", "{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}.Debug|Win32.Build.0 = Debug|Win32
+		{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}.Release|Win32.ActiveCfg = Release|Win32
+		{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}.Release|Win32.Build.0 = Release|Win32
+		{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}.Template|Win32.ActiveCfg = Release|Win32
+		{F44C77D4-229F-4B7E-97A0-9BF5100EE2AB}.Template|Win32.Build.0 = Release|Win32
+		{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}.Debug|Win32.Build.0 = Debug|Win32
+		{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}.Release|Win32.ActiveCfg = Release|Win32
+		{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}.Release|Win32.Build.0 = Release|Win32
+		{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}.Template|Win32.ActiveCfg = Release|Win32
+		{60B19E7C-51AE-4EE7-BFEF-5BB35C1ED754}.Template|Win32.Build.0 = Release|Win32
+		{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}.Debug|Win32.Build.0 = Debug|Win32
+		{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}.Release|Win32.ActiveCfg = Release|Win32
+		{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}.Release|Win32.Build.0 = Release|Win32
+		{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}.Template|Win32.ActiveCfg = Release|Win32
+		{A347F14D-3CAE-46DF-B0C2-5B5441DC03F8}.Template|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

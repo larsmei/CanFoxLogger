@@ -1,0 +1,7 @@
+DIP Schalter S1:ON S2:ON S3:ON S4:OFF - 00 00 00 00 00 00 00 00 00
+Setze Transmit ID auf 0x28 - 15 15 10 01 01 28 00 00 00
+Setze Receive ID auf 0x29 - 15 15 10 02 01 29 00 00 00
+Festschreiben der IDs - 15 15 10 ff 00 00 00 00 00
+Direktbedienung - 00 00 00 00 00 00 00 00 00
+Hintergrundbeleuchtung einschalten - 29 15 03 01 00 00 00 00 00
+Hintergrundbeleuchtung ausschalten - 29 15 03 00 00 00 00 00 00
