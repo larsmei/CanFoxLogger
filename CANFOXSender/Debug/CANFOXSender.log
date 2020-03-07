@@ -1,1 +1,38 @@
-﻿
+﻿cl : Befehlszeile warning D9035: Die Option "Gm" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  CANFOXSender.cpp
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "8" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): warning C4477: "sscanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "9" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxgui\canlib.h(81): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "1" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "2" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "3" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "4" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "5" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "6" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "7" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "8" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): warning C4477: "scanf_s": Die Formatzeichenfolge "%x" erfordert ein Argument vom Typ "unsigned int *", das variadic-Argument "9" weist aber den Typ "unsigned char *" auf.
+  d:\src\cpp\canfoxlogger\canfoxsender\canfoxsender.cpp(37): note: Verwenden Sie ggf. "%hhx" in der Formatzeichenfolge.
+CANLIB.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /SAFESEH ignoriert.
+  CANFOXSender.vcxproj -> D:\src\cpp\CanFoxLogger\Debug\CANFOXSender.exe
